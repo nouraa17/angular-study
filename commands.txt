@@ -1,0 +1,17 @@
+- Get-ExecutionPolicy
+- Set-ExecutionPolicy RemoteSigned (or) Set-ExecutionPolicy Unrestricted
+- Set-ExecutionPolicy RemoteSigned -Scope CurrentUser (or) Set-ExecutionPolicy Unrestricted -Scope CurrentUser
+- Get-ExecutionPolicy -List
+- npm install @angular/cli -> install cli in the folder only
+- npm install -g @angular/cli -> install cli globally 
+- cli commands start with ng
+- ng new app1
+- ng serve --open
+- ng generate component about
+- ng g c about
+- ng g c product --skip-tests --> to not include the spec.ts file
+- ng --version
+- backtick is ذ key
+- ctrl + backtick --> open and close the terminal
+- npm install jquery @popperjs/core bootstrap@5.2.x
+- npm install --> after cloning angular project
